@@ -28,4 +28,4 @@ while True:
   if distance>2 and distance<400:
     print('Mesafe: ',distance,' cm')
    else:
-    print('Menezil asildi')
+    print('Menzil asildi')
